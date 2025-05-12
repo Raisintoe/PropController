@@ -1,0 +1,109 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 0.1uF
+D Capacitor GCD21 L=2.0mm W=1.25mm T=1.25mm
+F https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GCD21BR71H104KA01-01A.pdf
+$ENDCMP
+#
+$CMP 1000uF_Bipolar
+D Aluminum Electrolytic Capacitors - Radial Leaded 25volts 1000uF 85c 16x31.5 7.5LS
+F https://componentsearchengine.com/Datasheets/1/UES1E102MHM.pdf
+$ENDCMP
+#
+$CMP 100uF_50V
+D Al Cap UD series SMT 100uF 50V Nichicon Aluminium Electrolytic Capacitor 100uF 50 V 8mm Surface Mount 5101-4 series UD lifetime 5000h
+F http://products.nichicon.co.jp/en/pdf/XJA043/e-ud.pdf
+$ENDCMP
+#
+$CMP 180
+D Thick Film Resistors - SMD 180ohm 1%
+F https://www.bourns.com/pdfs/chpreztr.pdf
+$ENDCMP
+#
+$CMP 1k_500mW
+D BOURNS - CHP0805-FX-1001ELF - SMD Chip Resistor, 0805 [2012 Metric], 1 kohm, CHP Series, 200 V, Thick Film, 500 mW
+F https://www.bourns.com/docs/product-datasheets/chp.pdf
+$ENDCMP
+#
+$CMP 430182043816
+D Black Tactile Switch, Single Pole Single Throw (SPST) 50 mA @ 12 V dc 0.9mm Surface Mount
+F https://www.we-online.com/components/products/datasheet/430182043816.pdf
+$ENDCMP
+#
+$CMP 61300411121
+D WR-PHD 2.54mm Pin Header THT Straight 4p Wurth Elektronik WR-PHD Series, Series Number 6130, 2.54mm Pitch 4 Way 1 Row Straight PCB Header, Solder Termination
+F http://katalog.we-online.de/em/datasheet/6130xx11121.pdf
+$ENDCMP
+#
+$CMP B3AL-1000P
+D Red Cap Tactile Switch, SPST-NO 50 mA@ 16 V dc
+F https://omronfs.omron.com/en_US/ecb/products/pdf/en-b3al.pdf
+$ENDCMP
+#
+$CMP BLM31KN102SN1L
+D BLM31_N1L Series EMI Suppression Filter 1000+/-25% at 100MHz 2A @85
+F https://www.murata.com/en-us/products/productdetail?partno=BLM31KN102SN1%23
+$ENDCMP
+#
+$CMP BSS138W
+D High density cell design for extremely low RDS(ON).; RDS(ON) = 3.5  @ VGS = 10V, ID = 0.22A; RDS(ON) = 6.0  @ VGS = 4.5V, ID = 0.22A; Rugged and Reliable.; Compact industry standard SOT-323 surface mount package.
+F https://www.onsemi.com/pub/Collateral/BSS138W-D.PDF
+$ENDCMP
+#
+$CMP CDBU40-HF
+D Schottky Diodes & Rectifiers VR=40V, IO=200mA
+F https://www.comchiptech.com/admin/files/product/QW-G1012-CDBU40-HF-RevA321692.pdf
+$ENDCMP
+#
+$CMP G2RL-1-E-DC12
+D General Purpose Relays SPDT 12VDC Hi-Cap. Flux Protect ClassF
+F https://componentsearchengine.com/Datasheets/1/G2RL-1-E-DC12.pdf
+$ENDCMP
+#
+$CMP P160KN2-0QC20B100K
+D 100k Ohm 1 Gang Linear Panel Mount Potentiometer 1.0 Turns Conductive Plastic 0.2W, 1/5W PC Pins
+F https://www.ttelectronics.com/TTElectronics/media/ProductFiles/Datasheet/P160.pdf
+$ENDCMP
+#
+$CMP SF-0603SPA800R-2
+D 0603 time-lag met-foil. 8A Auto
+F http://www.bourns.com/docs/Product-Datasheets/SF-0603SPA-R.pdf
+$ENDCMP
+#
+$CMP SF-1206FP150-2
+D Surface Mount Fuses 1.5A Fast Acting 1206 Singlfuse
+F https://www.arrow.com/en/products/sf-1206fp150-2/bourns
+$ENDCMP
+#
+$CMP TB004-750-02GR
+D Fixed Terminal Blocks 2 Poles, Screw Type, Horizontal, 7.50 mm Pitch, 24-12 (AWG)
+F https://www.digikey.in/en/products/detail/same-sky-formerly-cui-devices/TB004-750-02GR/25805480
+$ENDCMP
+#
+$CMP TB004-750-03GR
+D Fixed Terminal Blocks 3 Poles, Screw Type, Horizontal, 7.50 mm Pitch, 24-12 (AWG)
+F https://www.digikey.ph/en/products/detail/same-sky-formerly-cui-devices/TB004-750-03GR/25805512?msockid=39f1ec84d77b6f4428b7f904d6676eed
+$ENDCMP
+#
+$CMP TLP291-4_V4GBTPE
+D Transistor Output Optocouplers Photocoupler SO16
+F https://toshiba.semicon-storage.com/info/docget.jsp?did=12858&prodName=TLP291-4
+$ENDCMP
+#
+$CMP Vf=1.95@20mA
+D Standard LEDs - SMD 0603 (1608 metric)
+F https://www.digikey.ph/en/products/detail/ams-osram-usa-inc/KS-EELP41-22-P1R2-58-A8J8-020-R18/24765247
+$ENDCMP
+#
+$CMP ZXMS6004DN8-13
+D MOSFET Dual 60V N-Ch FET 500mOhm 1.3A 120mJ
+F https://www.diodes.com//assets/Datasheets/ZXMS6004DN8.pdf
+$ENDCMP
+#
+$CMP 61300811121
+D WR-PHD 2.54mm Pin Header THT Straight 8p Wurth Elektronik WR-PHD Series, Series Number 6130, 2.54mm Pitch 8 Way 1 Row Straight Pin Header, Surface Mount
+K
+F http://katalog.we-online.de/em/datasheet/6130xx11121.pdf
+$ENDCMP
+#
+#End Doc Library
