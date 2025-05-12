@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name SamacSys_Parts)(type Legacy)(uri "C:/Users/raisi/OneDrive/Documents/Doug's Dinos/Component Libraries (KiCAD)/SamacSys_Parts.lib")(options "")(descr ""))
+  (lib (name Diode)(type Legacy)(uri ${KICAD_SYMBOL_DIR}/Diode.lib)(options "")(descr ""))
+  (lib (name Jumper)(type Legacy)(uri ${KICAD_SYMBOL_DIR}/Jumper.lib)(options "")(descr ""))
+  (lib (name Jumper_new)(type Legacy)(uri ${KIPRJMOD}/Jumper_new.lib)(options "")(descr ""))
+)

@@ -1,0 +1,10 @@
+(fp_lib_table
+  (lib (name SamacSys_Parts)(type KiCad)(uri "C:/Users/raisi/OneDrive/Documents/Doug's Dinos/Component Libraries (KiCAD)/SamacSys_Parts.pretty")(options "")(descr ""))
+  (lib (name Diode_SMD)(type KiCad)(uri ${KISYSMOD}/Diode_SMD.pretty)(options "")(descr ""))
+  (lib (name Jumper)(type KiCad)(uri ${KISYSMOD}/Jumper.pretty)(options "")(descr ""))
+  (lib (name Capacitor_Tantalum_SMD)(type KiCad)(uri ${KISYSMOD}/Capacitor_Tantalum_SMD.pretty)(options "")(descr ""))
+  (lib (name Capacitor_SMD)(type KiCad)(uri ${KISYSMOD}/Capacitor_SMD.pretty)(options "")(descr ""))
+  (lib (name LED_SMD)(type KiCad)(uri ${KISYSMOD}/LED_SMD.pretty)(options "")(descr ""))
+  (lib (name Resistor_SMD)(type KiCad)(uri ${KISYSMOD}/Resistor_SMD.pretty)(options "")(descr ""))
+  (lib (name Package_SO)(type KiCad)(uri ${KISYSMOD}/Package_SO.pretty)(options "")(descr ""))
+)
